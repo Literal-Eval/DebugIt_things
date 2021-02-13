@@ -40,3 +40,10 @@ Other than that specific bug, you'll never win.
 ```
 The bug is quite straightforward though. You can find it easily in the get_comp function in the Game class.
 ```
+
+# Bored with this old, small, boring game?
+```
+There's Flappy Birds game in the folder with same name. 
+Do check it out.
+Its dependency is same as Tic Tac Toe's.
+```
