@@ -14,8 +14,11 @@ This version of Tic Tac Toe is implemented in Python, using PyGame as its displa
   Can be installed by following command.
   
   > pip install pygame
+  
+  Make sure Calibri font is installed in your PC. It's default in Windows.
     
-
+# How to
+Just run the T3A.py file after installing pygame.
 # Some fun
 There is an intentional bug in this piece of code, which lets you win against CPU if you go through that specific sequence. 
 Try to find that sequence.
